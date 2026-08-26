@@ -240,10 +240,10 @@ a {
 
 
 .club-img img:nth-child(2) {
-    top: 30%;
-    left: 8%;
+    top: 50%;
+    left: 20%;
     z-index: 1;
-    width: 85%;
+    width: 65%;
 }
 
 .club-img img:nth-child(3) {
@@ -280,14 +280,14 @@ a {
 .favorite {
     padding: 140px 0;
     text-align: center;
-    background-image: url('images/zutomayo.jpg');
+    background-image: url('images/background.jpg');
     background-position: center;
     background-size: cover;
 }
 
 .favorite .section-title {
-    color: #ffffff;
-    border-bottom: 6px double #ffffff;
+    color: #333333;
+    border-bottom: 6px double #333333;
 }
 .favorite-content img {
     width: 200px;
